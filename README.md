@@ -1,1 +1,3 @@
-# amazon-website-clone
+This Amazon website clone project is created using only HTML and CSS which tries to replicate the core functionalities and visual design of the popular e-commerce platform, Amazon. This project focuses on emulating the layout, structure, and styling of the original Amazon website while excluding any dynamic features or server-side functionalities.
+
+The clone project utilizes HTML to define the structural elements of the web page, such as headers, footers, navigation menus, product listings, and individual product pages. CSS is employed to style these elements, applying colors, fonts, spacing, and other visual attributes to closely mimic the appearance of the original Amazon website.
